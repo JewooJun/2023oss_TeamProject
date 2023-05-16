@@ -34,3 +34,4 @@
   #### <img src="./img/profile2.png" height="20px" width="20px"> 조아민
     - 기획
     - 기능 추가 및 개선
+    
